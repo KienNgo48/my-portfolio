@@ -6,7 +6,7 @@ import WmWindow from "@/components/ui/WmWindow";
 
 const TERM_LINES = [
   "whoami",
-  "kien ngo — cs grad, fullstack dev, ai enthusiast",
+  "kien ngo — cs grad, fullstack dev, pc enthusiast",
   "cat interests.txt",
   "fullstack apps · llm integration · game dev · sql · open source",
   "echo $LOCATION",
@@ -107,7 +107,7 @@ export default function Hero() {
               <span style={{ color: "#89b4fa" }}>const</span>{" "}
               role ={" "}
               <span style={{ color: "#a6e3a1" }}>
-                &quot;fullstack dev + feet enthusiast&quot;
+                &quot;fullstack dev + pc enthusiast&quot;
               </span>
               <span className="blink text-gold">;</span>
             </div>
