@@ -50,12 +50,12 @@ export default function ProjectsSection({ active = true }) {
         <div className="mt-6 text-center font-mono text-xs text-text-muted">
           more at{" "}
           <a
-            href="https://github.com/YuriFanatic"
+            href="https://github.com/KienNgo48"
             target="_blank"
             rel="noreferrer noopener"
             className="text-gold"
           >
-            github.com/YuriFanatic →
+            github.com/KienNgo48 →
           </a>
         </div>
       </div>

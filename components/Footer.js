@@ -6,7 +6,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   const links = [
-    { platform: "github", handle: "github.com/YuriFanatic", color: "#cba6f7", href: site.github },
+    { platform: "github", handle: "github.com/KienNgo48", color: "#cba6f7", href: site.github },
     {
       platform: "linkedin",
       handle: site.linkedin.replace("https://linkedin.com/in/", ""),
